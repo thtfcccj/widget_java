@@ -1,5 +1,6 @@
 package com.cofdet.dap8600.widget_java;
-//多列时ViewHolder管理,原作者：Created by Administrator on 2017/1/2.
+//多列时ListView管理
+//出自：https://blog.csdn.net/qq_28779083/article/details/61419297
 
 import android.content.Context;
 import android.util.SparseArray;
